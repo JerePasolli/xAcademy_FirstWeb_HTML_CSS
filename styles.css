@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+}
+p {
+    margin-right: 20px;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+}
+#navbar {
+    display: flex;
+    border-bottom: 1px solid gray;
+    padding: 14px 350px;
+    justify-content: space-between;
+}
+#navbar-right {
+    display: flex;
+    align-items: center;
+}
+button {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 0px 20px;
+    height: 38px;
+}
